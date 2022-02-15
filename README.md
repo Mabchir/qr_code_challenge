@@ -39,8 +39,6 @@ mobile version
 - CSS custom properties
 - Bootstrap
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
@@ -73,9 +71,11 @@ I want to learn more about :
 
 - [Google fonts ](https://fonts.google.com/specimen/Outfit?query=Outfit) - This helped me find the relevant font that the designer wanted
 
-- [MDN Web Doc ](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight) - This helped me find the different weights that a text could have the corresponding value to each categoty "normal = 400" etc ...
+- [MDN Web Doc ](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight) - This helped me find the different weights that a text could have the corresponding value to each categoty "normal = 400" etc ... | explained th Cascare and inheritance
 
-- [CSS Tricks ](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) - This helped me center the card element.
+- [CSS Tricks ](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) - This helped me center the card element and introduced me to flexbox
+
+- [W2Schools](https://www.w3schools.com/css/css_important.asp) - understand the logic behind !important in CSS
 
 ## Author
 
