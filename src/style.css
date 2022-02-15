@@ -3,17 +3,17 @@
   --font: "Outfit", sans-serif;
 }
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: hsl(212, 45%, 89%);
   font-family: var(--font);
+  height: 100vh;
 }
 
 .card {
-  position: absolute;
-  width: 320px !important;
+  width: 320px;
   height: 497px;
-
-  top: 20%;
-  left: 42%;
 
   background-color: white;
   border-radius: 20px;
@@ -45,11 +45,4 @@ img {
 
   width: 288px !important;
   height: 288px;
-}
-
-@media (max-width: 375px) {
-  .card {
-    top: 20%;
-    left: 8%;
-  }
 }
