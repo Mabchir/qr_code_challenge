@@ -81,6 +81,6 @@ I want to learn more about :
 
 - Website - [Mariem Bchir](https://goofy-easley-2c8717.netlify.app/index.html)
 
-- Frontend Mentor - [@Mabchir](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mabchir](https://www.frontendmentor.io/profile/Mabchir)
 
 - Github - [Mabchir](https://github.com/Mabchir)
